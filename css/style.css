@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.total{
+    
+}
+body{
+    width: 800px;
+    height: 600px;
+}
+table{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    background-color: black;
+}
+.linha1{
+    background-color: rgba(40, 212, 255, 0.774);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha2{
+    background-color: rgba(2, 124, 43, 0.774);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha3{
+    background-color: rgb(2, 153, 120);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha4{
+    background-color: rgba(238, 146, 42, 0.774);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha5{
+    background-color: rgba(236, 24, 35, 0.774);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha6{
+    background-color: rgba(57, 23, 248, 0.774);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+.linha7{
+    background-color: rgba(6, 59, 204, 0.959);
+    color: rgb(254, 255, 255);
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 50px; 
+    border: 1px solid;
+
+}
+div{
+    width: 100%;
+    margin: auto;
+    background-color: rgb(23, 95, 177);
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 0px;
+}
+.cor1{
+    width: 100%;
+    height: 350px;
+    margin: auto;
+    background-image: url("../imagens/coronavirus-ilustracion_0.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-size: 7mm;
+}
+.frase{
+    font-style: italic;
+    font-size: 5mm;
+}
+.fontes{
+    font-style: oblique;
+    font-size: 6mm;
+}
